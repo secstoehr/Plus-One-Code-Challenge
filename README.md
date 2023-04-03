@@ -13,7 +13,7 @@ A win is considered a straight, uninterrupted line that spans the full length of
 
 The program commands in the appropriate directory are:
 
-'~$ python3 SStoehr_TTT.py (test | play)'
+~$ python3 SStoehr_TTT.py (test | play)
 
 - The test option will run tests on the program.
 - The play option will allow the user to play the game.
